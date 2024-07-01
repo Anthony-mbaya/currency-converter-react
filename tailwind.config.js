@@ -5,7 +5,7 @@ export default {
     extend: {
       backgroundImage: {
         "bitcoin": "url('src/bitcon.avif')",
-      }
+      },
     },
   },
   plugins: [],
