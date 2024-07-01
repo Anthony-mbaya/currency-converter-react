@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        "bitcoin": "url('src/bitcon.avif')",
+        "bitcoin": "url('src/assets/bitcoin.avif')",
       },
     },
   },
